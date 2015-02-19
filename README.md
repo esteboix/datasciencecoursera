@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-This is the repo for the Data Scientist's Toolbox pproject
+This is the repo for the Data Scientist's Toolbox project
